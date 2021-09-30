@@ -8,4 +8,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flowersayo&show_icons=true&theme=solarized-light)
 
-[![flowersayo0811](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
+[![https://solved.ac/profile/flowersayo0811](http://mazassumnida.wtf/api/v2/generate_badge?boj=flowersayo0811)](https://solved.ac/flowersayo0811)
