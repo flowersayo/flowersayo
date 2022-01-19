@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2Fflowersayo&count_bg=%23FBBFFF&title_bg=%23645765&icon=&icon_color=%23AF78A7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-🌱💐🏵🌹🌴🌿🍒 <strong>연잎의 화원에 방문하신걸 환영합니다 </strong>  🌲🍄🌼🥀🌷🍓🌸 
+🌱💐🏵🌹🌴🌿🍒🌲🍄🌼🥀🌷🍓🌸 
 
 ## 🌷 Who am I?
 
