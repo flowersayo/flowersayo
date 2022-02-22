@@ -4,18 +4,21 @@
 
 🌱💐🏵🌹🌴🌿🍒🌲🍄🌼🥀🌷🍓🌸 
 
-## 🌷 Who am I?
+## 🌷 Experience
 
 **🌱 Ewha Womans University CSE 20**
 
-**🌹 Ewha King : Game development**
+**🌹 Ewha King 12th vice-chairman**
 
-**🍒 gdsc ewha**   
+**🍒 gdsc ewha 3rd Member**   
+
+**🌼 Elice coding tutor **   
+
+**🍓 SW OneStop tutor **   
 
 ## 🥀 Dreaming of
 <img src="https://img.shields.io/badge/Frontend engineer-e06666?style=flat-square&logo=Frontend&logoColor=white"/></a>
 
-I'm not sure, actually still agonizing over..😂
 
 ## 🌸 Tech stack
 
