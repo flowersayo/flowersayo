@@ -12,17 +12,15 @@
 
 **🍒 gdsc ewha 3rd Member**   
 
-**🌼 Elice coding tutor **   
+**🌼 Elice coding tutor**   
 
-**🍓 SW OneStop tutor **   
+**🍓 SW OneStop tutor**   
 
 ## 🥀 Dreaming of
 <img src="https://img.shields.io/badge/Frontend engineer-e06666?style=flat-square&logo=Frontend&logoColor=white"/></a>
 
 
 ## 🌸 Tech stack
-
-I’m currently learning ...
 
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-ffc923?style=flat-square&logo=C&logoColor=white"/></a>
