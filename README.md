@@ -10,9 +10,9 @@
 
 **🌹 Ewha King 12th vice-chairman**
 
-**🍒 gdsc ewha 3rd Member**   
+**🍒 Google Development School Club Ewha 3rd Member**   
 
-**🌼 Elice coding tutor**   
+**🌼 Elice school coding tutor**   
 
 **🍓 SW OneStop tutor**   
 
