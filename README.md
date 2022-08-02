@@ -16,6 +16,8 @@
 
 **🍓 SW OneStop tutor**   
 
+**🌱 EFUB 2nd FE LEAD DEVELOPER  **
+
 ## 🥀 Dreaming of
 <img src="https://img.shields.io/badge/Frontend engineer-e06666?style=flat-square&logo=Frontend&logoColor=white"/></a>
 
