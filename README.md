@@ -1,5 +1,7 @@
  ## 김서연
 
+
+#### Ewha Womens Univ CSE 20 
 #### 🌸 2001.08.11 YEON
 
  <img src="https://img.shields.io/badge/Frontend engineer-e06666?style=flat-square&logo=Frontend&logoColor=white"/></a> 
