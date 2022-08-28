@@ -4,14 +4,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2Fflowersayo&count_bg=%23FBBFFF&title_bg=%23645765&icon=&icon_color=%23AF78A7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-##📕 Experience
+## 📕 Experience
 
-- 엘리스 스쿨 코딩 튜터 ( 2022.01 ~ )
-- Google Development School Club Ewha 3rd ( 2021.10 ~ 2022.07)
-- 이화여자대학교 SW 중심대학 원스탑 튜터( 2022.02  ~ ing )
-- KING 11기 부회장 ( 2021.03 ~ ing)
-- EFUB 2기 FE Lead (2021.03 ~ ing )
-- [엘리스 스쿨](https://elice.school/) 코딩 튜터 
+📍 [엘리스 스쿨](https://elice.school/) 경시반 담당 코딩 튜터  ( 2022.01 ~ )
+📍 Google Development School Club Ewha 3rd ( 2021.10 ~ 2022.07)
+📍 이화여자대학교 SW 중심대학 원스탑 튜터( 2022.02  ~ ing )
+📍 KING 11기 부회장 ( 2021.03 ~ ing)
+📍 EFUB 2기 FE Lead (2021.03 ~ ing )
 
 
 ## 🔎 Tech stack
