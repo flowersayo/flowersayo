@@ -1,28 +1,20 @@
- ## 김서연 🌺  
+ ## 김서연
+
+2001.08.11 <img src="https://img.shields.io/badge/Frontend engineer-e06666?style=flat-square&logo=Frontend&logoColor=white"/></a> 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2Fflowersayo&count_bg=%23FBBFFF&title_bg=%23645765&icon=&icon_color=%23AF78A7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-🌱💐🏵🌹🌴🌿🍒🌲🍄🌼🥀🌷🍓🌸 
+##📕 Experience
 
-## 🌷 Experience
-
-**🌱 Ewha Womans University CSE 20**
-
-**🌹 Ewha King 12th vice-chairman**
-
-**🍒 Google Development School Club Ewha 3rd Member**   
-
-**🌼 Elice school coding tutor**   
-
-**🍓 SW OneStop tutor**   
-
-**🌱 EFUB 2nd FE LEAD DEVELOPER  **
-
-## 🥀 Dreaming of
-<img src="https://img.shields.io/badge/Frontend engineer-e06666?style=flat-square&logo=Frontend&logoColor=white"/></a>
+- 엘리스 스쿨 코딩 튜터 ( 2022.01 ~ )
+- Google Development School Club Ewha 3rd ( 2021.10 ~ 2022.07)
+- 이화여자대학교 SW 중심대학 원스탑 튜터( 2022.02  ~ ing )
+- KING 11기 부회장 ( 2021.03 ~ ing)
+- EFUB 2기 FE Lead (2021.03 ~ ing )
+- [엘리스 스쿨](https://elice.school/) 코딩 튜터 
 
 
-## 🌸 Tech stack
+## 🔎 Tech stack
 
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-ffc923?style=flat-square&logo=C&logoColor=white"/></a>
@@ -38,12 +30,12 @@
 
 
 
-## 🌼 Contact
+## 📌 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/flowersayo0811@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:flowersayo@gmail.com)   [![Tistory Badge](https://img.shields.io/badge/Tistory-555263?style=flat&logoColor=white)](https://flowersayo.tistory.com/)  [![Velog Badge](https://img.shields.io/badge/Velog-69dfcb?style=flat&logoColor=white)](https://velog.io/@flowersayo)  
 
 
-## 🍄Status
+## 💡Status
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=flowersayo0811">
 
 
