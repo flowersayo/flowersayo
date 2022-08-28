@@ -1,6 +1,8 @@
  ## 김서연
 
-2001.08.11 <img src="https://img.shields.io/badge/Frontend engineer-e06666?style=flat-square&logo=Frontend&logoColor=white"/></a> 
+#### 🌸 2001.08.11 YEON
+
+ <img src="https://img.shields.io/badge/Frontend engineer-e06666?style=flat-square&logo=Frontend&logoColor=white"/></a> 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2Fflowersayo&count_bg=%23FBBFFF&title_bg=%23645765&icon=&icon_color=%23AF78A7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
