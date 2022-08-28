@@ -14,7 +14,7 @@
 
 📍 **KING 11기 부회장 ( 2021.03 ~ ing)**
 
-📍 **EFUB 2기 FE Lead (2021.03 ~ ing )**
+📍 **EFUB 2기 FE Lead (2022.03 ~ ing )**
 
 
 ## 🔎 Tech stack
