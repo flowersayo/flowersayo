@@ -41,7 +41,7 @@
 
 ## 📌 Contact
 
-[![Gmail Badge](https://img.shields.io/badge/flowersayo0811@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:flowersayo@gmail.com)   [![Tistory Badge](https://img.shields.io/badge/Tistory-555263?style=flat&logoColor=white)](https://flowersayo.tistory.com/)  [![Velog Badge](https://img.shields.io/badge/Velog-69dfcb?style=flat&logoColor=white)](https://velog.io/@flowersayo)  
+[![Gmail Badge](https://img.shields.io/badge/flowersayo0811@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:flowersayo@gmail.com)  [![Velog Badge](https://img.shields.io/badge/Velog-69dfcb?style=flat&logoColor=white)](https://velog.io/@flowersayo)  
 
 
 ## 💡Status
