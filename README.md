@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Hazel, Web Developer
 
 
-사용자 중심의 공감과 이해를 바탕으로 서비스를 만들어가고자 하는 웹 프론트엔드 개발자입니다
-단순히 화면을 구현하는 것이 아니라, 사용자가 어떤 맥락에서 이 기능을 쓰게 되는지를 먼저 고민하고 사용자 입장에서 더 쉽게 이해하고 더 편하게 쓸 수 있는 UI를 만들기 위해 개선해왔습니다. 
+사용자 중심의 공감과 이해를 바탕으로 서비스를 만들어가고자 하는 웹 프론트엔드 개발자입니다.
+단순히 화면을 구현하는 것이 아니라, 사용자가 어떤 맥락에서 이 기능을 쓰게 되는지를 먼저 고민하고 사용자 입장에서 더 쉽게 이해하고 더 편하게 쓸 수 있는 UI를 만들기 위해 개선해합니다.
 이후 프로젝트에서 기술 선택이나 구조 설계 시, “지금 이 단계에서 사용자에게 가장 의미 있는 선택인가?”를 기준으로 판단하려고 노력하고 있습니다.
 
 "사람의 마음을 담는 기술 구현"이 얼마나 의미 있는지, 그리고 좋은 기술이란 단지 코드만 아니라 사람이 쓰고 느끼는 것임을 확인했습니다. 
@@ -23,7 +23,7 @@ To me, great technology is not just about writing code — it’s about creating
 ## 🧑🏻‍💻 About Me
 
 - React / Next.js 기반 웹 프론트엔드 개발
-- 사용자 행동을 고려한 UI/UX 개선 경험
+- 사용자 경험을 고려한 UI/UX 개선
 - 기술 선택의 이유를 설명할 수 있는 개발자
 
 ---
@@ -80,7 +80,7 @@ Production-like ticket reservation simulator
 ### 💻 Classic Mac OS Web Emulator
 Multi-user web-based OS simulation
 
-`WebSocket` `Node.js` `React` `System Modeling`
+`WebSocket` `System Modeling` ÒS`
 
 - Modeled kernel–user space architecture and abstracted system calls via HTTP `/syscall`
 - Implemented virtual file system using Node.js `fs`
@@ -102,7 +102,7 @@ Map-based accommodation booking service
 
 ---
 
-### ⚙ Codestagram 2
+### Codestagram 
 Instagram-like web platform (SSR + SPA hybrid)
 
 `SSR` `Node.js` `Webpack` `Cluster`
