@@ -23,6 +23,8 @@ To me, great technology is not just about writing code — it’s about creating
 
 ## 🚀 Experience
 
+### 🥕 Karrot Market, SW Engineering Intern ( 2026.02 ~ )
+
 ### 🎓 Naver BoostCamp Web·Mobile 10th (2025.06 – 2026.02)
 Intensive full-stack training program focused on building production-level web services.
 
