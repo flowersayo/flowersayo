@@ -1,28 +1,17 @@
 # 👋 Hi, I'm Hazel, Web Developer
 
 
-사용자 중심의 공감과 이해를 바탕으로 서비스를 만들어가고자 하는 웹 프론트엔드 개발자입니다.
-
-"사람의 마음을 담는 기술 구현"이 얼마나 의미 있는지, 그리고 좋은 기술이란 단지 코드만 아니라 사람이 쓰고 느끼는 것임을 확인했습니다. 
-이를 기반으로 더 좋은 서비스를 만들고, 더 많은 사용자에게 가치 있는 경험을 제공하는 개발자로 나아가고자 합니다.
-
 I am a FullStack Web developer who designs products with empathy and a deep understanding of users.
 Rather than simply building interfaces, I focus on the context in which users experience a feature.  
 
-When making technical or architectural decisions, I ask myself:  
+## 🧑🏻‍💻 About Me
+
+When making technical or architectural decisions, I ask myself
 *"Is this the most meaningful choice for users at this stage?"*
 
 Beyond frontend development, I explore backend and DevOps to better understand the web ecosystem and build more holistic solutions.
-
 To me, great technology is not just about writing code — it’s about creating experiences that truly resonate with people.
 
----
-
-## 🧑🏻‍💻 About Me
-
-- React / Next.js 기반 웹 프론트엔드 개발
-- 사용자 경험을 고려한 UI/UX 개선
-- 기술 선택의 이유를 설명할 수 있는 개발자
 
 ---
 
