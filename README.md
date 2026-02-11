@@ -33,7 +33,7 @@ To me, great technology is not just about writing code — it’s about creating
 Intensive full-stack training program focused on building production-level web services.
 
 
-### 🧪 Research Intern (2025.01 – 2025.03)
+### 🧪 Ewha Womens University Undergraduate Research Intern (2025.01 – 2025.03)
 Autonomous driving simulation using NVIDIA Isaac Sim (RGB-D perception)
 - Built data processing pipelines
 - Worked with simulation-based AI environments
