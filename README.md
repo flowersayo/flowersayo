@@ -1,8 +1,13 @@
-# 👋 Hi, I'm Hazel, Web Developer
+
+<img width="854" height="300" alt="image" src="https://github.com/user-attachments/assets/13a8e384-8328-4be6-a921-ca70c6c9fbb2" />
+
+
+# 👋 Hi, I'm Seoyeon, Web Developer
 
 
 I am a FullStack Web developer who designs products with empathy and a deep understanding of users.
 Rather than simply building interfaces, I focus on the context in which users experience a feature.  
+
 
 ## 🧑🏻‍💻 About Me
 
