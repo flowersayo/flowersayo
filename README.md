@@ -1,29 +1,43 @@
- ## 김서연
+# 👋 Hi, I'm Hazel, Web Developer
 
 
-#### Ewha Womens Univ CSE 20 
-#### 🌸 2001.08.11 YEON
+사용자 중심의 공감과 이해를 바탕으로 서비스를 만들어가고자 하는 웹 프론트엔드 개발자입니다
+단순히 화면을 구현하는 것이 아니라, 사용자가 어떤 맥락에서 이 기능을 쓰게 되는지를 먼저 고민하고 사용자 입장에서 더 쉽게 이해하고 더 편하게 쓸 수 있는 UI를 만들기 위해 개선해왔습니다. 
+이후 프로젝 트에서 기술 선택이나 구조 설계 시, “지금 이 단계에서 사용자에게 가장 의미 있는 선택인가?”를 기준으로 판단하려고 노력하고 있습니다.
 
- <img src="https://img.shields.io/badge/Frontend engineer-e06666?style=flat-square&logo=Frontend&logoColor=white"/></a> 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2Fflowersayo&count_bg=%23FBBFFF&title_bg=%23645765&icon=&icon_color=%23AF78A7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+"사람의 마음을 담는 기술 구현"이 얼마나 의미 있는지, 그리고 좋은 기술이란 단지 코드만 아니라 사람이 쓰고 느끼는 것임을 확인했습니다. 
+이를 기반으로 더 좋은 서비스를 만들고, 더 많은 사용자에게 가치 있는 경험을 제공하는 개발자로 나아가고자 합니다.
+
+I am a FullStack Web developer who designs products with empathy and a deep understanding of users.
+Rather than simply building interfaces, I focus on the context in which users experience a feature.  
+
+When making technical or architectural decisions, I ask myself:  
+*"Is this the most meaningful choice for users at this stage?"*
+
+Beyond frontend development, I explore backend and DevOps to better understand the web ecosystem and build more holistic solutions.
+
+To me, great technology is not just about writing code — it’s about creating experiences that truly resonate with people.
+
+---
+
+## 🧑🏻‍💻 About Me
+
+- React / Next.js 기반 웹 프론트엔드 개발
+- 사용자 행동을 고려한 UI/UX 개선 경험
+- 기술 선택의 이유를 설명할 수 있는 개발자
+
+---
+
+## 🚀 Experience
+
+**SW Engineering Intern, Frontend @ Karrot** (2026.02 ~ )
+
+**Elice School Coding Tutor** (2022.01 ~ )
+
+---
 
 
-## 📕 Experience
-
-📍 **[엘리스 스쿨](https://elice.school/) 경시반 담당 코딩 튜터  ( 2022.01 ~ )**
-
-📍 **Google Development School Club Ewha 3rd ( 2021.10 ~ 2022.07)**
-
-📍 **이화여자대학교 SW 중심대학 원스탑 튜터( 2022.02  ~ 2022.02 )**
-
-📍 **KING 12기 부회장 ( 2021.03 ~ 2022.03 )**
-
-📍 **이화여자대학교 인재개발원 커리어클럽 소속 웹개발 동아리 EFUB 2기 FE Lead (2022.03 ~ 2022.12 )**
-
-📍 **신촌 연합 IT 창업 동아리 CEOS 17기 Frontend (2023.03 ~ 2023.08)**
-
-
-## 🔎 Tech stack
+## 🛠 Tech stack
 
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-ffc923?style=flat-square&logo=C&logoColor=white"/></a>
@@ -39,14 +53,16 @@
 
 
 
-## 📌 Contact
+## 📫 Contact
 
-[![Gmail Badge](https://img.shields.io/badge/flowersayo0811@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:flowersayo@gmail.com)  [![Velog Badge](https://img.shields.io/badge/Velog-69dfcb?style=flat&logoColor=white)](https://velog.io/@flowersayo)  
+- Email: flowersayo0811@gmail.com  
+- Blog: https://velog.io/@flowersayo  
 
+---
 
-## 💡Status
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=flowersayo0811">
+## 📊 Stats
 
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flowersayo0811)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flowersayo&show_icons=true&theme=solarized-light)
