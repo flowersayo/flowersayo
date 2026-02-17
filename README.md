@@ -56,56 +56,6 @@ Elice School & University SW Program
 
 ---
 
-## 🚀 Projects
-
-### 🎟 Ticketing Simulator (MSA Architecture)
-Production-like ticket reservation simulator
-
-`Next.js` `MSA` `Docker` `CI/CD` `NCloud`
-
-- Designed MSA-based queue & reservation architecture under limited server constraints
-- Applied ISR for frequently updated performance listings to reduce server load
-- Optimized CI/CD in a monorepo by detecting changed packages via shell scripts
-- Designed scalable NCloud infra (LB, Auto-scaling)
-- Improved FCP/LCP/CLS through Lighthouse analysis and image optimization
-
----
-
-### 💻 Classic Mac OS Web Emulator
-Multi-user web-based OS simulation
-
-`WebSocket` `System Modeling` ÒS`
-
-- Modeled kernel–user space architecture and abstracted system calls via HTTP `/syscall`
-- Implemented virtual file system using Node.js `fs`
-- Built real-time multi-user sync (cursor/window/memo) with WebSocket + in-memory state
-- Reduced sync latency by throttling mouse events and delayed DB persistence
-- Integrated AI terminal using NAVER CLOVA function calling
-
----
-
-### 🗺 bangbang (Airbnb-style Platform)
-Map-based accommodation booking service
-
-`PostGIS` `Performance Optimization` `UX Improvement`
-
-- Implemented viewport-based real-time map search
-- Applied R-Tree spatial index → improved query speed from **5–10s to 0.02s**
-- Designed race-condition test cases to prevent double booking
-- Improved UX based on Airbnb UI analysis
-
----
-
-### Codestagram 
-Instagram-like web platform (SSR + SPA hybrid)
-
-`SSR` `Node.js` `Webpack` `Cluster`
-
-- Built custom HTTP server and reverse proxy using Node.js `net`
-- Implemented SSR without template engines
-- Designed multi-process server using Node.js Cluster module
-- Configured Webpack manually (MPA, Tree-shaking, Babel)
-
 
 
 ## 🛠 Tech stack
